@@ -5,7 +5,7 @@ Go through this list from top to bottom, select the recommended articles as a mi
 As a minimum it is worth understanding:
 - Component Design Principles
 - Atomic Design
-- JavaScript ES6 (we also use ES6 in Ember) Thinking in React
+- JavaScript ES6 Thinking in React
 - Presentational and Container Components Stateful and Stateless Components
 - JSX
 - Refs
